@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @n0Tes0
+- 👋 Hi, I’m @noteso
 - 👀 I’m interested in Web Dev, Game Dev
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Symfony, Shopware
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
